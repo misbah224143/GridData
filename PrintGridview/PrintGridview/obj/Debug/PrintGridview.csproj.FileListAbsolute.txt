@@ -1,0 +1,4 @@
+F:\practic\PrintGridview\PrintGridview\bin\PrintGridview.dll
+F:\practic\PrintGridview\PrintGridview\bin\PrintGridview.pdb
+F:\practic\PrintGridview\PrintGridview\obj\Debug\PrintGridview.dll
+F:\practic\PrintGridview\PrintGridview\obj\Debug\PrintGridview.pdb
